@@ -1,4 +1,4 @@
-# [guilhermewv] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# guilhermewv <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 Eu sou <strong>Guilherme</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
