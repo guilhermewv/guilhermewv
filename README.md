@@ -1,6 +1,6 @@
 # guilhermewv  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-Olá, me chamo Guilherme, <strong>Guilherme</strong>tenho 19 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Estou aqui para compartilhar meus projetos e Skills na área da tecnologia.<strong></strong> 👨🏻‍💻 
+Olá, me chamo <strong>Guilherme</strong>, tenho 19 anos e nasci em Recife, Pernambuco. Concluí o Ensino Médio na Escola Técnica Ginásio Pernambucano, onde realizei o Ensino Técnico em Multimídia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAC. Estou aqui para compartilhar meus projetos e Skills na área da tecnologia.<strong></strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong></strong> 
 - 💬 Pergunte-me sobre: <strong></strong>
